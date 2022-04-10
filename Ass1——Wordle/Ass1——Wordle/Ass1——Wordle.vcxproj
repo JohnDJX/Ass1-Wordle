@@ -141,9 +141,15 @@
   <ItemGroup>
     <ClCompile Include="Ass1——Wordle.cpp" />
     <ClCompile Include="Dictionary.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="guess.cpp" />
+    <ClCompile Include="Session.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dictionary.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="guess.h" />
+    <ClInclude Include="Session.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Ass1——Wordle.rc" />
